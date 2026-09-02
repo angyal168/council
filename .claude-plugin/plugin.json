@@ -1,0 +1,17 @@
+{
+  "name": "council",
+  "version": "1.0.0",
+  "description": "AI advisory board for Claude Code -- 6 executive perspectives debate any decision.",
+  "author": {
+    "name": "angyal168",
+    "url": "https://github.com/angyal168"
+  },
+  "repository": "https://github.com/angyal168/council",
+  "homepage": "https://notes.aingyal.com/go/plugin-council/nlajnm/",
+  "keywords": [
+    "claude-code",
+    "slash-command",
+    "council"
+  ],
+  "license": "MIT"
+}
